@@ -17,4 +17,5 @@ function admin_can_always_comment( $open, $post_id ) {
 		$open = true;
 
 	return $open;
+	
 }
